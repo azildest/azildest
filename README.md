@@ -2,7 +2,7 @@
 
 Saya **Azzila Deswita Utami**, **Mahasiswa Sistem Informasi** di **Institut Teknologi Nasional (ITENAS)**. Salam kenal.<br>
 
-Sekarang sedang menjalani studi independen di **Bangkit Academy** sebagai **Machine Learning Cohort** 2024.
+Sekarang lulusan **Bangkit Academy** path **Machine Learning Cohort** 2024.
 
 Tertarik dengan dunia machine learning, konsep AI, data analyst/scientist. Kadang-kadang juga menggambar jika senggang.
 
