@@ -1,11 +1,12 @@
-# Halo semua! 
+# Hi there!
 
-Saya **Azzila Deswita Utami**, **Mahasiswa Sistem Informasi** di **Institut Teknologi Nasional (ITENAS)**. Salam kenal.<br>
+I’m **Azzila Deswita Utami**, an **Information Systems graduate from Institut Teknologi Nasional (ITENAS)**.
 
-Sekarang lulusan **Bangkit Academy** path **Machine Learning Cohort** 2024.
+**Bangkit Academy 2024 – Machine Learning Path Graduate**  
+Passionate about **AI**, **data analysis**, and **web development**.  
+Occasionally, I enjoy **drawing** during my free time.
 
-Tertarik dengan dunia machine learning, konsep AI, data analyst/scientist. Kadang-kadang juga menggambar jika senggang.
+I’m always eager to learn new technologies, explore real-world projects, and collaborate with others in the tech community.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti atau kunjungi akun [Linkedin](https://www.linkedin.com/in/azziladeswitautami/)ku ya.
-
-Terima kasih.
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/azziladeswitautami/) or check out my repositories below.  
+Thanks for stopping by!
