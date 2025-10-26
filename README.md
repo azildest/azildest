@@ -8,7 +8,7 @@ Occasionally, I enjoy **drawing** during my free time.
 
 I’m always eager to learn new technologies, explore real-world projects, and collaborate with others in the tech community.
 
-# Expertise
+## Expertise
 
 ## 🧰 Tech Stack
 
@@ -23,5 +23,8 @@ I’m always eager to learn new technologies, explore real-world projects, and c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/azziladeswitautami/) or check out my repositories below.  
+## 🌐 Socials
+
+[Linkedin](https://www.linkedin.com/in/azziladeswitautami/) [Instagram](https://www.instagram.com/azziladest/) or check out my repositories below.  
+
 Thanks for stopping by!
