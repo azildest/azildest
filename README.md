@@ -1,6 +1,6 @@
 # Hi there!
 
-I’m **Azzila Deswita Utami**, an **Information Systems graduate from Institut Teknologi Nasional (ITENAS)**.
+I’m **Azzila**, an **Information Systems graduate from Institut Teknologi Nasional (ITENAS)**.
 
 **Bangkit Academy 2024 – Machine Learning Path Graduate**  
 Passionate about **AI**, **data analysis**, and **web development**.  
